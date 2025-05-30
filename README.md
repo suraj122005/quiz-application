@@ -12,6 +12,6 @@ DURATION : 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
 
-PROJECT DESCRIPTION:
+PROJECT DESCRIPTION:An interactive quiz application, built with HTML and CSS, provides a dynamic and engaging way to test knowledge or skills. It allows users to answer questions, track their progress, and receive immediate feedback on their performance
 
 #OUT PUT#
