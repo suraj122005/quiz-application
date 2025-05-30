@@ -18,7 +18,7 @@
 
 Defines the basic layout of the quiz, including questions, answer options, and a submit button.
 
-Uses HTML tags like <p>, <div>, <input>, and <button> to structure the quiz interface.
+Uses HTML tags like <p, <div>, <input>, and <button> to structure the quiz interface.
 
 2. CSS Styling: 
 
